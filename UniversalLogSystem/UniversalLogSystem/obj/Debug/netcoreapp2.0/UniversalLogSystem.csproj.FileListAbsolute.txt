@@ -1,0 +1,11 @@
+C:\Users\Neha Pednekar\source\repos\UniversalLogSystem\UniversalLogSystem\bin\Debug\netcoreapp2.0\UniversalLogSystem.deps.json
+C:\Users\Neha Pednekar\source\repos\UniversalLogSystem\UniversalLogSystem\bin\Debug\netcoreapp2.0\UniversalLogSystem.runtimeconfig.json
+C:\Users\Neha Pednekar\source\repos\UniversalLogSystem\UniversalLogSystem\bin\Debug\netcoreapp2.0\UniversalLogSystem.runtimeconfig.dev.json
+C:\Users\Neha Pednekar\source\repos\UniversalLogSystem\UniversalLogSystem\bin\Debug\netcoreapp2.0\UniversalLogSystem.dll
+C:\Users\Neha Pednekar\source\repos\UniversalLogSystem\UniversalLogSystem\bin\Debug\netcoreapp2.0\UniversalLogSystem.pdb
+C:\Users\Neha Pednekar\source\repos\UniversalLogSystem\UniversalLogSystem\obj\Debug\netcoreapp2.0\UniversalLogSystem.csprojAssemblyReference.cache
+C:\Users\Neha Pednekar\source\repos\UniversalLogSystem\UniversalLogSystem\obj\Debug\netcoreapp2.0\UniversalLogSystem.csproj.CoreCompileInputs.cache
+C:\Users\Neha Pednekar\source\repos\UniversalLogSystem\UniversalLogSystem\obj\Debug\netcoreapp2.0\UniversalLogSystem.AssemblyInfoInputs.cache
+C:\Users\Neha Pednekar\source\repos\UniversalLogSystem\UniversalLogSystem\obj\Debug\netcoreapp2.0\UniversalLogSystem.AssemblyInfo.cs
+C:\Users\Neha Pednekar\source\repos\UniversalLogSystem\UniversalLogSystem\obj\Debug\netcoreapp2.0\UniversalLogSystem.dll
+C:\Users\Neha Pednekar\source\repos\UniversalLogSystem\UniversalLogSystem\obj\Debug\netcoreapp2.0\UniversalLogSystem.pdb
